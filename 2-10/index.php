@@ -1,6 +1,6 @@
 <html>
     <head>
-        <meta title ="PHPの研修カリキュラム2-10">
+        <title>PHPの研修カリキュラム2-10</title>
     </head>
     <body>
 
